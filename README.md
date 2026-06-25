@@ -1,6 +1,6 @@
 # Baileys Clean Fork
 
-Fork bersih dari Baileys (basis: `ItsukiChan/Baileys`) — semua fitur original lengkap, **tanpa backdoor dan tanpa auto-follow tersembunyi**.
+Baileys fork oleh **HabibiOfficial** — semua fitur lengkap, **tanpa backdoor dan tanpa auto-follow tersembunyi**.
 
 ## Yang Dihapus dari Fork Aslinya
 
