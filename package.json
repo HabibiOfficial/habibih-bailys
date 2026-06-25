@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Itsukichann/Baileys",
+  "homepage": "https://github.com/HabibiOfficial/habibih-bailys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
+    "url": "git+ssh://git@github.com/HabibiOfficial/habibih-bailys.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "HabibiOfficial",
 
   "main": "lib/index.js",
   "files": [
@@ -62,7 +62,6 @@
     "@types/jest": "^29.5.14",
     "@types/node": "^16.0.0",
     "@types/ws": "^8.0.0",
-    "@itsukichan/eslint-config": "^1.0.0",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^30.1.1",
@@ -100,6 +99,6 @@
   },
 
   "bugs": {
-    "url": "https://github.com/Itsukichann/Baileys/issues"
+    "url": "https://github.com/HabibiOfficial/habibih-bailys/issues"
   }
 }
